@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    padding-top: 130px;
+}
+.weather{
+    background: #2962a9;
+    color: #fff;
+    display: inline-block;
+    padding: 10px;
+    margin:0 5px;
+    text-align: center;
+}
+.weather:hover{
+    background-color: rgb(90, 133, 212);
+}
